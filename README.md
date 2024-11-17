@@ -1,2 +1,2 @@
 # IMLP428
-This is for IMLP428 class
+This is for IMLP428.
